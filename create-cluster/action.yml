@@ -1,0 +1,7 @@
+---
+name: Create k8s cluster
+description: Create a Kubernetes cluster on DigitalOcean's infrastructure
+
+runs:
+  using: docker
+  image: Dockerfile
